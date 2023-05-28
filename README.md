@@ -1,5 +1,12 @@
-# FundamentosMatematicas
+# Fundamentos de Matematicas. Grado de Nanociencia y Nanotecnología
 
-Prácticas y Apuntes de la asignatura de Fumdamentos de Matemáticas del 1er curso del Grado de Nanociencia y Nanotecnología de la Universidad de A Coruña.
+pyter Notebooks y apuntes de la asignatura de Fundamentos de Matemáticas del grado de Nanociencia y Nanotecnología de la Universidad de A Coruña. 
 
-Autores: Ana María Ferreiro Ferreiro y José Antonio García Rodríguez
+Material elaborado para el primer curso que se imparte la asignatura (curs0 2020-21). El grado de Nanociencia y Nanotecnología de la UDC empezó a impartirse en el curso 2020-21.
+
+Los ficheros Jupyter y las transparencias pueden ser usados, compartidos y modificiados de forma grautida. Véase la licencia y los derechos de autor. 
+
+
+
+# Autores.
+Ana María Ferreiro Ferreiro(ana.fferreiro@udc.es), José Antonio García Rodríguez (jose.garcia@udc.es)
