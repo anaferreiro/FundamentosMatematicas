@@ -9,4 +9,6 @@ Los ficheros Jupyter y las transparencias pueden ser usados, compartidos y modif
 
 
 # Autores.
-Ana María Ferreiro Ferreiro(ana.fferreiro@udc.es), José Antonio García Rodríguez (jose.garcia@udc.es)
+Ana María Ferreiro Ferreiro (ana.fferreiro@udc.es)
+
+José Antonio García Rodríguez (jose.garcia.rodriguez@udc.es)
