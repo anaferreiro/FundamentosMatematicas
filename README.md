@@ -1,4 +1,4 @@
-# Fundamentos de Matematicas. Grado de Nanociencia y Nanotecnología
+# Fundamentos de Matemáticas. Grado de Nanociencia y Nanotecnología
 
 pyter Notebooks y apuntes de la asignatura de Fundamentos de Matemáticas del grado de Nanociencia y Nanotecnología de la Universidad de A Coruña. 
 
